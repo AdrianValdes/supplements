@@ -133,17 +133,89 @@ This guide is a compilation of researched information and is not a substitute fo
 | **Iodine**                  | -                                 | Vegetarians and Vegans              |
 | **Iron with Vitamin C**     | -                                 | Vegetarians and Vegans              |
 
-## Supplements People Take
+## Supplement Routine  People Take
 
-| **Person**      | **Supplements**                                       |
-| -------------- | ------------------------------------------------- |
-| **Peter Attia**    | - Fish Oil (2gm EPA/1.5gms DHA)                   |
-|                | - Vitamin D3 (5000 IU)                            |
-|                | - Magnesium (1gm total magnesium)                 |
-|                | - Methylfolate and methyl B12 (normal recommended dose) |
-|                | - B6 (50mgs three times a week) Night Time       |
-|                | - Ashwagandha (600mg) - Thorn Brand              |
-|                | - Glycine (2g) - Thorn Brand                      |
-|                | - Magnesium l-threonate - Mag team Brand         |
+### Peter Attia
 
+| **Supplement**                      | **Dosage/Frequency**                                    |
+| ---------------------------------- | -------------------------------------------------------- |
+| **Fish Oil**                            | 2gm EPA/1.5gms DHA                          |
+| **Vitamin D3**                          | 5000 IU                            |
+| **Magnesium**                           | 1gm total magnesium                           |
+| **Methylfolate and methyl B12**         | Normal recommended dose                                  |
+| **B6**                                  | 50mgs three times a week                                             |
+| **Ashwagandha**                         | 600mg/Night time                                                      |
+| **Glycine**                             | 2g/Night time                                                      |
+| **Magnesium l-threonate**               | /Night time                                                      |
+
+
+### Bryan Johnson
+
+## Upon Waking
+
+| Supplement                            | Dosage/Frequency          |
+| --------------------------------------|---------------------------|
+| **Acarbose (Rx)**                         | 200 mg                    |
+| **Ashwagandha**                           | 600 mg                    |
+| **B Complex**                             | 0.25 pill M/Th (1/4 pill, twice a week) |
+| **BroccoMax**                             | 17.5 mg                   |
+| **Vitamin C**                             | 500 mg                    |
+| **Calcium Alpha-Ketoglutarate (Ca-AKG)**  | 1 gram                    |
+| **Cocoa Flavanols**  | 500 mg                    |
+| **CoQ10**   | 100 mg                    |
+| **Vitamin D3**  | 2,000 IU                  |
+| **DHEA**  | 25 mg                     |
+| **Vitamin E**   | 67 mg                     |
+| **EPA with Vitamin E**   | 500 mg                    |
+| **Garlic (2.4 g equivalent)**   |                           |
+| **Garlic (1.2 g Kyolic)**   |                           |
+| **Genistein**   | 125 mg                    |
+| **Ginger Root**   | 2.2 g                     |
+| **Glucosamine Sulphate 2KCL**  | 1,500 mg                  |
+| **Iodine (as potassium iodide)**  | 125 mcg                   |
+| **Vitamin K2-MK4**   | 5 mg                      |
+| **Vitamin K1**   | 1.5 mg                    |
+| **Vitamin K2 MK-7**   | 600 mcg                   |
+| **Lithium (as lithium orotate)**   | 1 mg                      |
+| **Lycopene**   | 10 mg                     |
+| **Lysine**   | 1 g                       |
+| **Metformin ER (Rx)**   | 1,500 mg                  |
+| **Nicotinamide Riboside**   | 375 mg (6 times a week)  |
+| **N-Acetyl-L-Cysteine (NAC)**  | 1,800 mg                  |
+| **Proferrin**   | 10 mg                     |
+| **Turmeric with Piperine**   | 1 g                       |
+| **Taurine**   | 2 g                       |
+| **Viviscal (men, women)**   | 1 pill                    |
+| **Zeaxanthin (20mg Lutein, 4 mg Zeaxanthin) | 3 times a week          |
+| **Zinc                                   | 15 mg                     |
+
+## With Dinner at 11 am
+
+| Supplement                            | Dosage/Frequency          |
+| --------------------------------------|---------------------------|
+| Acarbose (Rx)                         | 200 mg                    |
+| BroccoMax                             | 17.5 mg                   |
+| Calcium Alpha-Ketoglutarate (Ca-AKG)  | 1 gram                    |
+| Cocoa Flavanols (contains caffeine)    | 500 mg                    |
+| Vitamin E                              | 67 mg                     |
+| EPA with Vitamin E                     | 500 mg                    |
+| Garlic (2.4 g equivalent)              |                           |
+| Garlic (1.2 g Kyolic)                  |                           |
+| Ginger Root                            | 2.2 g                     |
+| Glucosamine Sulphate 2KCL             | 1,500 mg                  |
+| Hyaluronic Acid                        | 300 mg                    |
+| Lysine                                 | 1 g                       |
+| L-Tyrosine                             | 500 mg                    |
+| Metformin ER (Rx)                      | 500 mg                    |
+| N-Acetyl-L-Cysteine (NAC)             | 1,800 mg                  |
+| NR (Nicotinamide Riboside) or NMN     | 375 mg or 500 mg (6 times a week) |
+| Taurine                                | 1 g                       |
+| Turmeric                               | 1 g                       |
+| Viviscal (men, women)                  | 1 pill                    |
+
+## Before Bed
+
+| Supplement                            | Dosage/Frequency          |
+| --------------------------------------|---------------------------|
+| Melatonin                              | 300 mcg                   |
 
