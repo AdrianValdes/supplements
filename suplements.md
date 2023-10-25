@@ -158,7 +158,7 @@ This guide is a compilation of researched information and is not a substitute fo
 
 ### Bryan Johnson
 
-## Upon Waking
+#### Upon Waking
 
 | Supplement                            | Dosage/Frequency          |
 | --------------------------------------|---------------------------|
@@ -196,7 +196,7 @@ This guide is a compilation of researched information and is not a substitute fo
 | **Zeaxanthin (20mg Lutein, 4 mg Zeaxanthin) | 3 times a week          |
 | **Zinc                                   | 15 mg                     |
 
-## With Dinner at 11 am
+#### With lunch at 11 am
 
 | Supplement                            | Dosage/Frequency          |
 | --------------------------------------|---------------------------|
@@ -220,7 +220,7 @@ This guide is a compilation of researched information and is not a substitute fo
 | Turmeric                               | 1 g                       |
 | Viviscal (men, women)                  | 1 pill                    |
 
-## Before Bed
+#### Before Bed
 
 | Supplement                            | Dosage/Frequency          |
 | --------------------------------------|---------------------------|
