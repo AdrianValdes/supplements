@@ -2,6 +2,8 @@
 
 This table provides a guide to various supplements based on different health goals, including aging, muscle gain, cardiovascular health, bone health, blood sugar control, stress and anxiety, joint health, and considerations for vegetarians and vegans. Each supplement is outlined with its purpose, recommended dosage, and potential warnings.
 
+Source: [Examine+ supplement guides](https://examine.com/guides/)
+
 ## Table of Contents
 
 1. [Aging](#aging)
@@ -104,34 +106,39 @@ This guide is a compilation of researched information and is not a substitute fo
 
 | **Supplement**          | **Primary**                        | **Secondary**                        |
 | ----------------------- | ---------------------------------- | ------------------------------------ |
-| **Protein (3)**             | Aging, Muscle Gain, Bone Health    | -                                    |
-| **Creatine (3)**            | Muscle Gain, Vegetarians and Vegans, Examine Course | Aging              |
-| **Nitrates (2)**            | Cardiovascular Health, Muscle Gain | -                                    |
-| **Carnitine (2)**           | Aging, Vegetarians and Vegans     | Cardiovascular Health                 |
-| **B12 (2)**                 | Aging, Vegetarians and Vegans     | -                                    |
-| **Garlic (2)**              | Cardiovascular Health, Examine Course | -                                |
-| **Omega-3 Fatty Acids (2)** | Vegetarians and Vegans, Mood & Depression | Joint Health                          |
-| **Magnesium (2)**           | Stress & Anxiety, Vegetarians and Vegans | Blood Sugar, Bone Health        |
-| **Zinc (1)**                | Examine Course                    | Blood Sugar                         |
-| **Turmeric (Curcumin) (1)** | Examine Course                    | Joint Health                         |
-| **Vitamin K (1)**           | Bone Health                       | Aging, Cardiovascular Health         |
-| **Blueberries (1)**         | Aging                             | Muscle Gain                        |
-| **Cocoa (1)**               | Cardiovascular Health              | -                                  |
-| **Fiber (1)**               | Blood Sugar                       | -                                  |
-| **Beta-Alanine**            | -                                 | Muscle Gain                        |
-| **Caffeine**                | -                                 | Muscle Gain                        |
-| **Berberine**               | -                                 | Blood Sugar                        |
-| **Inositol**                | -                                 | Blood Sugar                        |
-| **Boswellia Serrata**       | -                                 | Joint Health                        |
-| **Collagen**                | -                                 | Joint Health                        |
-| **Cocoa polyphenols**       | -                                 | Cardiovascular Health               |
-| **Taurine**                 | -                                 | Cardiovascular Health               |
-| **Venotropics**             | -                                 | Cardiovascular Health               |
-| **CoQ10**                   | -                                 | Cardiovascular Health               |
-| **Grape Seed**              | -                                 | Cardiovascular Health               |
-| **Resveratrol**             | -                                 | Cardiovascular Health               |
-| **Iodine**                  | -                                 | Vegetarians and Vegans              |
-| **Iron with Vitamin C**     | -                                 | Vegetarians and Vegans              |
+| **Protein (3)**               | Aging, Muscle Gain, Bone Health    | -                                    |
+| **Creatine (3)**              | Muscle Gain, Vegetarians and Vegans, Examine Course | Aging              |
+| **Garlic (3)**                | Cardiovascular Health, Allergies & Immunity, Examine Course | -                                |
+| **Nitrates (2)**              | Cardiovascular Health, Muscle Gain | -                                    |
+| **Carnitine (2)**             | Aging, Vegetarians and Vegans     | Cardiovascular Health                 |
+| **B12 (2)**                   | Aging, Vegetarians and Vegans     | -                                    |
+| **Omega-3 Fatty Acids (2)**   | Vegetarians and Vegans, Mood & Depression | Joint Health                          |
+| **Magnesium (2)**             | Stress & Anxiety, Vegetarians and Vegans | Blood Sugar, Bone Health        |
+| **Blueberries (2)**           | Aging, Memory & Focus             | Muscle Gain                        |
+| **Zinc (1)**                  | Examine Course                    | Blood Sugar                         |
+| **Turmeric (Curcumin) (1)**   | Examine Course                    | Joint Health                         |
+| **Vitamin K (1)**             | Bone Health                       | Aging, Cardiovascular Health         |
+| **Cocoa (1)**                 | Cardiovascular Health             | -                                  |
+| **Fiber (1)**                 | Blood Sugar                       | -                                  |
+| **Vitamine C (1)**            | Allergies & Immunity              | -                                  |
+| **Vitamine D (1)**            | Allergies & Immunity              | -                                  |
+| **Maca root powder (1)**      | Libido                            | -                                  |
+| **S-Adenosyl-Methionine (1)** | Liver health                      | -                                  |
+| **Saffron (1)**               | Mood & Depresssion                | -                                  |
+| **Beta-Alanine**              | -                                 | Muscle Gain                        |
+| **Caffeine**                  | -                                 | Muscle Gain                        |
+| **Berberine**                 | -                                 | Blood Sugar                        |
+| **Inositol**                  |  -                                | Blood Sugar                        |
+| **Boswellia Serrata**         | -                                 | Joint Health                        |
+| **Collagen**                  | -                                 | Joint Health                        |
+| **Cocoa polyphenols**         | -                                 | Cardiovascular Health               |
+| **Taurine**                   | -                                 | Cardiovascular Health               |
+| **Venotropics**               | -                                 | Cardiovascular Health               |
+| **CoQ10**                     | -                                 | Cardiovascular Health               |
+| **Grape Seed**                | -                                 | Cardiovascular Health               |
+| **Resveratrol**               | -                                 | Cardiovascular Health               |
+| **Iodine**                    | -                                 | Vegetarians and Vegans              |
+| **Iron with Vitamin C**       | -                                 | Vegetarians and Vegans              |
 
 ## Supplement Routine  People Take
 
