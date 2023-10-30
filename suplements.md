@@ -104,41 +104,41 @@ This guide is a compilation of researched information and is not a substitute fo
 
 ## Summary of Examine Supplements
 
-| **Supplement**          | **Primary**                        | **Secondary**                        |
-| ----------------------- | ---------------------------------- | ------------------------------------ |
-| **Protein (3)**               | Aging, Muscle Gain, Bone Health    | -                                    |
-| **Creatine (3)**              | Muscle Gain, Vegetarians and Vegans, Examine Course | Aging              |
-| **Garlic (3)**                | Cardiovascular Health, Allergies & Immunity, Examine Course | -                                |
-| **Nitrates (2)**              | Cardiovascular Health, Muscle Gain | -                                    |
-| **Carnitine (2)**             | Aging, Vegetarians and Vegans     | Cardiovascular Health                 |
-| **B12 (2)**                   | Aging, Vegetarians and Vegans     | -                                    |
-| **Omega-3 Fatty Acids (2)**   | Vegetarians and Vegans, Mood & Depression | Joint Health                          |
-| **Magnesium (2)**             | Stress & Anxiety, Vegetarians and Vegans | Blood Sugar, Bone Health        |
-| **Blueberries (2)**           | Aging, Memory & Focus             | Muscle Gain                        |
-| **Zinc (1)**                  | Examine Course                    | Blood Sugar                         |
-| **Turmeric (Curcumin) (1)**   | Examine Course                    | Joint Health                         |
-| **Vitamin K (1)**             | Bone Health                       | Aging, Cardiovascular Health         |
-| **Cocoa (1)**                 | Cardiovascular Health             | -                                  |
-| **Fiber (1)**                 | Blood Sugar                       | -                                  |
-| **Vitamine C (1)**            | Allergies & Immunity              | -                                  |
-| **Vitamine D (1)**            | Allergies & Immunity              | -                                  |
-| **Maca root powder (1)**      | Libido                            | -                                  |
-| **S-Adenosyl-Methionine (1)** | Liver health                      | -                                  |
-| **Saffron (1)**               | Mood & Depresssion                | -                                  |
-| **Beta-Alanine**              | -                                 | Muscle Gain                        |
-| **Caffeine**                  | -                                 | Muscle Gain                        |
-| **Berberine**                 | -                                 | Blood Sugar                        |
-| **Inositol**                  |  -                                | Blood Sugar                        |
-| **Boswellia Serrata**         | -                                 | Joint Health                        |
-| **Collagen**                  | -                                 | Joint Health                        |
-| **Cocoa polyphenols**         | -                                 | Cardiovascular Health               |
-| **Taurine**                   | -                                 | Cardiovascular Health               |
-| **Venotropics**               | -                                 | Cardiovascular Health               |
-| **CoQ10**                     | -                                 | Cardiovascular Health               |
-| **Grape Seed**                | -                                 | Cardiovascular Health               |
-| **Resveratrol**               | -                                 | Cardiovascular Health               |
-| **Iodine**                    | -                                 | Vegetarians and Vegans              |
-| **Iron with Vitamin C**       | -                                 | Vegetarians and Vegans              |
+| **Supplement**          | **Primary**                        | **Secondary**                            | **Daily dose** |
+| ----------------------- | ---------------------------------- | ---------------------------------------- | --------------- |
+| **Protein (4)**               | Healthy Aging, Muscle Gain, Fat Loss, Bone Health    | -                | 1.6 to 2.4 g per kg |
+| **Creatine (3)**              | Muscle Gain, Vegetarians and Vegans, Examine Course | Aging             | 5 grams |
+| **Garlic (3)**                | Cardiovascular Health, Allergies & Immunity, Examine Course | -         | 600 - 1200 mg of aged extract |
+| **Vitamine D (3)**            | Aging, Allergies & Immunity, Bone Health | Mood & Depression            | 400 - 5000 UI depending on levels |
+| **Carnitine (2)**             | Aging, Vegetarians and Vegans     | Cardiovascular Health               | 2 g of L-carnitine |
+| **B12 (2)**                   | Aging, Vegetarians and Vegans     | -                                   | 100–400 mcg/day |
+| **Omega-3 Fatty Acids (2)**   | Vegetarians and Vegans, Mood & Depression | Joint Health, Cardiovascular Health | 650 mg of combined EPA and DHA |
+| **Blueberries (2)**           | Aging, Memory & Focus             | Muscle Gain                         | Fresh: 60–120g. Frozen: 24g. Powder: 12g |
+| **Zinc (1)**                  | Examine Course                    | Blood Sugar, Testosterone           | 75–95 mg only when sick |
+| **Turmeric (Curcumin) (1)**   | Examine Course                    | Joint Health                        | 1,500 mg with 60 mg of piperine |
+| **Vitamin K (1)**             | Bone Health                       | Aging, Cardiovascular Health        | 200 mcg (0.2 mg) of MK-7 and/or 45,000 mcg (45 mg) of MK-4 |
+| **Cocoa (1)**                 | Cardiovascular Health             | Libido                              | 5g (1 tbsp) of cocoa powder |
+| **Fiber (1)**                 | Blood Sugar                       | -                                   | ~25g per day |
+| **Vitamine C (1)**            | Allergies & Immunity              | -                                   | 1-2g |
+| **Maca root powder (1)**      | Libido                            | -                                   | 2-3g of root powder at breakfast |
+| **Saffron (1)**               | Mood & Depresssion                | Stress & Anxiety                    | 30 mg of saffron extract |
+| **S-Adenosyl-Methionine (1)** | Liver health                      | -                                   | varies a lot |
+| **Nitrates (1)**              | Cardiovascular Health             | Muscle Gain                         | 6.4–12.8 mg per kg |
+| **Beta-Alanine**              | -                                 | Muscle Gain                         | - |
+| **Caffeine**                  | -                                 | Muscle Gain                         | - |
+| **Berberine**                 | -                                 | Blood Sugar                         | - |
+| **Inositol**                  |  -                                | Blood Sugar                         | - |
+| **Magnesium**                 | -                                 | Blood Sugar                         | - |
+| **Boswellia Serrata**         | -                                 | Joint Health                        | - |
+| **Collagen**                  | -                                 | Joint Health                        | - |
+| **Cocoa polyphenols**         | -                                 | Cardiovascular Health               | - |
+| **Taurine**                   | -                                 | Cardiovascular Health               | - |
+| **Venotropics**               | -                                 | Cardiovascular Health               | - |
+| **CoQ10**                     | -                                 | Cardiovascular Health               | - |
+| **Grape Seed**                | -                                 | Cardiovascular Health               | - |
+| **Resveratrol**               | -                                 | Cardiovascular Health               | - |
+| **Iodine**                    | -                                 | Vegetarians and Vegans              | - |
+| **Iron with Vitamin C**       | -                                 | Vegetarians and Vegans              | - |
 
 ## Supplement Routine  People Take
 
