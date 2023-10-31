@@ -117,7 +117,7 @@ This guide is a compilation of researched information and is not a substitute fo
 | **Zinc (1)**                  | Examine Course                    | Blood Sugar, Testosterone           | 75–95 mg only when sick |
 | **Turmeric (Curcumin) (1)**   | Examine Course                    | Joint Health                        | 1,500 mg with 60 mg of piperine |
 | **Vitamin K (1)**             | Bone Health                       | Aging, Cardiovascular Health        | 200 mcg (0.2 mg) of MK-7 and/or 45,000 mcg (45 mg) of MK-4 |
-| **Cocoa (1)**                 | Cardiovascular Health             | Libido                              | 5g (1 tbsp) of cocoa powder |
+| **Cocoa (1)**                 | Cardiovascular Health             | Libido                              | 30g (6 tbsp) of cocoa powder |
 | **Fiber (1)**                 | Blood Sugar                       | -                                   | ~25g per day |
 | **Vitamine C (1)**            | Allergies & Immunity              | -                                   | 1-2g |
 | **Maca root powder (1)**      | Libido                            | -                                   | 2-3g of root powder at breakfast |
